@@ -1,7 +1,7 @@
 body {
     color: rgb(252, 252, 252);
     background: black;
-    margin: 1px;
+    margin: 0px;
     font-family: "Ubuntu", sans-serif;
     margin-bottom: 100px;
 }
@@ -23,7 +23,7 @@ header {
 
 }
 h1 {
-    font-size: 38px;
+    font-size: 40px;
 }
 p {
     font-size: 20px;
